@@ -1,10 +1,10 @@
 Aplikasi berupa kuesioner dengan GUI yang dibangun dengan Java Swing
 
 Spesifikasi:
-Bahasa: Java
-Framework: Java Swing
-IDE: NetBeans
-Database: MySQL
+1. Bahasa: Java
+2. Framework: Java Swing
+3. IDE: NetBeans
+4. Database: MySQL
 
 Fitur:
 1. Login
